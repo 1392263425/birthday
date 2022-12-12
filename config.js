@@ -5,8 +5,7 @@ var config = {
     texts: [
         "祝亲爱的妈妈:",
             "生日快乐~",
-            "身体健康发大财~",
-            " Happy Birthday!~~  "
+              " Happy Birthday!~~  "
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -19,7 +18,7 @@ var config = {
      */
     imgs: {
         "亲爱的妈妈": "./imgs/xiao.jpg",
-        // "生日快乐": "./imgs/nin.jpg",
+        // "生日快乐~": "./imgs/nin.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
