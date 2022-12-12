@@ -5,7 +5,6 @@ var config = {
     texts: [
         "祝亲爱的妈妈:",
             "生日快乐~",
-              " Happy Birthday!~~  "
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
